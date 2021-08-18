@@ -1,5 +1,5 @@
 Hey!
-I wondered what it would look like if I sampled pixels on a [Voronoi diagram](en.wikipedia.org/wiki/Voronoi_diagram). So I used GMS 2.3 to put this shader example together. Maybe you can use it your game to make it look more unique.
+I wondered what it would look like if I sampled pixels on a [Voronoi diagram](https://en.wikipedia.org/wiki/Voronoi_diagram). So I used GMS 2.3 to put this shader example together. Maybe you can use it your game to make it look more unique.
 ## [Direct Download](https://github.com/XorDev/GMS-Voronoi-Pixels/archive/master.zip)
 
 Here's the result:
